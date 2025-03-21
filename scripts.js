@@ -1,0 +1,1 @@
+console.log("Mahmoud, your truck-themed socks store is ready to roll!");
